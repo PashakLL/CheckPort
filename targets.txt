@@ -1,0 +1,6 @@
+google.com:443
+localhost:9999
+192.0.2.1:80
+nonexistent.invalid:443
+
+localhost:abc
